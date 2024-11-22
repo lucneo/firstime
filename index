@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Join Us on Telegram</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+            line-height: 1.6;
+        }
+        .container {
+            max-width: 1200px;
+            margin: auto;
+            padding: 20px;
+        }
+        header {
+            background: #0077b5;
+            color: #fff;
+            padding: 20px 0;
+            text-align: center;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 2.5rem;
+        }
+        .cta {
+            text-align: center;
+            margin: 20px 0;
+        }
+        .cta a {
+            background: #0077b5;
+            color: #fff;
+            padding: 15px 30px;
+            text-decoration: none;
+            font-size: 1.2rem;
+            border-radius: 5px;
+        }
+        .cta a:hover {
+            background: #005a89;
+        }
+        .features, .testimonials {
+            background: #fff;
+            padding: 20px;
+            margin: 20px 0;
+            border-radius: 10px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+        footer {
+            text-align: center;
+            padding: 10px;
+            background: #333;
+            color: #fff;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Welcome to Our Sales Hub!</h1>
+        <p>Discover exclusive offers and updates by joining our Telegram group.</p>
+    </header>
+
+    <div class="container">
+        <div class="cta">
+            <a href="https://t.me/yourtelegramlink" target="_blank">Join Us on Telegram</a>
+        </div>
+
+        <section class="features">
+            <h2>Why Join Us?</h2>
+            <ul>
+                <li>Exclusive deals and promotions.</li>
+                <li>Real-time updates on new products.</li>
+                <li>Direct interaction with our team.</li>
+            </ul>
+        </section>
+
+        <section class="testimonials">
+            <h2>What Our Customers Say</h2>
+            <p>"This is the best service I've ever used!" - Jane Doe</p>
+            <p>"I love the updates I get on Telegram." - John Smith</p>
+        </section>
+    </div>
+
+    <footer>
+        <p>© 2024 Your Business Name. All rights reserved.</p>
+    </footer>
+</body>
+</html>
